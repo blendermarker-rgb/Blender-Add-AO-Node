@@ -1,6 +1,6 @@
 # Blender Add AO Node
 
-A small Blender add-on that quickly adds an Ambient Occlusion node setup to materials.
+A small Blender add-on that quickly adds an Ambient Occlusion node setup to materials on simple objects.
 
 It can add the AO setup to either:
 
